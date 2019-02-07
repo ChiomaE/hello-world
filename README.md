@@ -1,2 +1,3 @@
 # hello-world
-First Repository
+
+Hello! My name is Chioma! I'm learning how GitHub works. BTS IS THE ARMY
